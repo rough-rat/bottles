@@ -1,0 +1,7 @@
+
+#define PIN_LED1 GPIO_PIN_1
+#define PIN_LED2 GPIO_PIN_4
+#define PIN_LED3 GPIO_PIN_8
+#define PIN_LED4 GPIO_PIN_5
+#define PIN_LED5 GPIO_PIN_12
+#define PIN_LED6 GPIO_PIN_6
